@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Alvaro Telkomsel</string>
+    <string name="setting_name">Setting</string>
+    <string name="logout">Log Out</string>
+</resources>
